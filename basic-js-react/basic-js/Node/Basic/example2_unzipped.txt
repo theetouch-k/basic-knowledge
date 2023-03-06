@@ -1,0 +1,156 @@
+2 int i;
+3 printf("The first 10 natural numbers are:\n");
+4 for (i=1;i<=10;i++)
+5 {      
+6 printf("%d ",i);
+7 }
+8 printf("\n");
+9 return 0;
+10 }
+  
+main
+i(int): ?
+
+Step-2	
+1 int main(){
+2 int i;
+3 printf("The first 10 natural numbers are:\n");
+4 for (i=1;i<=10;i++)
+5 {      
+6 printf("%d ",i);
+7 }
+8 printf("\n");
+9 return 0;
+10 }
+  
+main
+i(int): ?	
+Step-3	
+1 int main(){
+2 int i;
+3 printf("The first 10 natural numbers are:\n");
+4 for (i=1;i<=10;i++)
+5 {      
+6 printf("%d ",i);
+7 }
+8 printf("\n");
+9 return 0;
+10 }
+  
+main
+i(int): ?	The first 10 natural numbers are:
+Step-4	
+1 int main(){
+2 int i;
+3 printf("The first 10 natural numbers are:\n");
+4 for (i=1;i<=10;i++)
+5 {      
+6 printf("%d ",i);
+7 }
+8 printf("\n");
+9 return 0;
+10 }
+  
+main
+i(int): 1	The first 10 natural numbers are:
+Step-5	
+1 int main(){
+2 int i;
+3 printf("The first 10 natural numbers are:\n");
+4 for (i=1;i<=10;i++)
+5 {      
+6 printf("%d ",i);
+7 }
+8 printf("\n");
+9 return 0;
+10 }
+  
+main
+i(int): 1	The first 10 natural numbers are:
+1
+Step-6	
+1 int main(){
+2 int i;
+3 printf("The first 10 natural numbers are:\n");
+4 for (i=1;i<=10;i++)
+5 {      
+6 printf("%d ",i);
+7 }
+8 printf("\n");
+9 return 0;
+10 }
+  
+main
+i(int): 2	The first 5 natural numbers are:
+1
+Step-7	
+1 int main(){
+2 int i;
+3 printf("The first 10 natural numbers are:\n");
+4 for (i=1;i<=10;i++)
+5 {      
+6 printf("%d ",i);
+7 }
+8 printf("\n");
+9 return 0;
+10 }
+  
+main
+i(int): 2	The first 5 natural numbers are:
+1 2
+Step-8	
+1 int main(){
+2 int i;
+3 printf("The first 10 natural numbers are:\n");
+4 for (i=1;i<=10;i++)
+5 {      
+6 printf("%d ",i);
+7 }
+8 printf("\n");
+9 return 0;
+10 }
+  
+main
+i(int): 3	The first 5 natural numbers are:
+1 2
+Step-9	
+1 int main(){
+2 int i;
+3 printf("The first 10 natural numbers are:\n");
+4 for (i=1;i<=10;i++)
+5 {      
+6 printf("%d ",i);
+7 }
+8 printf("\n");
+9 return 0;
+10 }
+  
+main
+i(int): 3	The first 5 natural numbers are:
+1 2 3
+Step-10	
+1 int main(){
+2 int i;
+3 printf("The first 10 natural numbers are:\n");
+4 for (i=1;i<=10;i++)
+5 {      
+6 printf("%d ",i);
+7 }
+8 printf("\n");
+9 return 0;
+10 }
+  
+main
+i(int): 4	The first 10 natural numbers are:
+1 2 3
+Step-11	
+1 int main(){
+2 int i;
+3 printf("The first 10 natural numbers are:\n");
+4 for (i=1;i<=10;i++)
+5 {      
+6 printf("%d ",i);
+7 }
+8 printf("\n");
+9 return 0;
+10 }
